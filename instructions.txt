@@ -1,5 +1,5 @@
 Congratulations, you have succesfully cloned the exercise repository! You are awesome!
-
+This is simply awesome
 To complete the exercise, please follow the instructions.
 
 1. Open the report file. You will use it to track your progress.
